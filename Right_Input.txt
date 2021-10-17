@@ -1,0 +1,80 @@
+include stdio.h
+include iostream
+
+MAX define 100000
+
+def power(int a, int b)
+{
+    int pow=a;
+    for(int i=1; i<b; i++){
+        pow*=b;
+    }
+    return pow;
+}
+
+def display(string name)
+{
+    print("My name is " + name + ".");
+    return;
+}
+
+def fibonacci(int num)
+{
+    if(number == 0){return 0;}
+    if(number == 1){return 1;}
+    return  fibonacci(number - 1) + fibonacci(number - 2);
+}
+
+def solve()
+{
+    int a = input("Enter the value of number:");
+    int result = fibonacci(a);
+    print("Result is " + result + ".");
+    return;
+}
+
+main function()
+{
+    constant string name = "Nasim Bahadur";
+    constant roll = 73;
+    float obtainedMark = 99;
+    birthday = input();
+    print("my name is Nasim");
+    print("my birthday is " + birthday);
+
+    display("Nasim");
+
+    for(int i = 1; i <= 100; i++)
+    {
+        if( i % 2 == 0 )
+        {
+            print("Even Number");
+        }
+        else
+        {
+            print("Odd Number");
+        }
+    }
+
+    solve();
+
+    int n=input();
+    int i = 1;
+    while(n>100)
+    {
+        if(i == 20) {
+            break;
+        }
+        else if(i%2==0){
+            print(i);
+        }
+        else{
+            i += 2;
+        }
+        n--;
+    }
+
+    int result = power(10,2);
+    print(result);
+    return 0;
+}

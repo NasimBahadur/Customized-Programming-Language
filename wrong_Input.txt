@@ -1,0 +1,77 @@
+include stdio.h
+include iostream
+
+define MAX 100000
+
+def power( int a,b)
+{
+    int 2pow=a;
+    for(int i=1; i<b; i++){
+        pow*=b;
+    }
+    return pow;
+}
+
+def display(name)
+{
+    print("My name is " + name + .");
+}
+
+def fibonacci(int num)
+{
+    if(number == 0)
+    {
+        return 0;
+    }
+    if(number == 1) {
+        return 1;
+    }
+    return  fibonacci(number - 1) add fibonacci(number - 2);
+}
+
+def solve()
+{
+    a.in = input("Enter the value of number:");
+    int @result = fibonacci(a);
+    print("Result is " + result + ".");
+    return;
+}
+
+main function()
+{
+    constant string name = "Nasim Bahadur";
+    age = 24;
+    constant roll = 73;
+    float obtainedMark = 99;
+    birthday = input();
+    print("my name is Nasim";
+    print("my birthday is " + birthday);
+
+    def display(Nasim)
+
+    for(int i = 1; i <= 100; i++)
+    {
+        print(i);
+        if(i = 20)
+        {
+            continue;
+        }
+    }
+
+    solve();
+
+    int i = 1;
+    while(i <= 100)
+    {
+        print(i);
+        i += 2;
+        if(i == 20)
+        {
+            break;
+        }
+    }
+
+    int result = sqrt(100,2);
+    print(result)
+    return 0;
+}
