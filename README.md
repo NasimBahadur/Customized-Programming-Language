@@ -11,5 +11,3 @@ Terminal and non-terminal symbols are the lexical parts used in deciding the cre
 6. Break statement: break
 7. Continue statement: continue
 
-# Parse Tree
-![parseTree](https://user-images.githubusercontent.com/43060004/137644378-e742f8d7-dd67-4f20-bafc-7ba9a28ba61d.png)
