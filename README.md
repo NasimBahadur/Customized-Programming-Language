@@ -61,9 +61,11 @@ Terminal and non-terminal symbols are the lexical parts used in deciding the cre
 12. User can write conditional statement with **if, else if & else**. There could be multiple **else if** and an optional **else**.
 
       ![10](https://user-images.githubusercontent.com/43060004/137789349-e01b1778-daae-4831-9de9-6774fa02d2d1.png)
+      
       ![11](https://user-images.githubusercontent.com/43060004/137795072-e88c179c-8cfe-4ed2-9078-30323734884c.png)
 
 13. User can run two types of loop, **for** and **while** with **break** and **continue** statement.
 
       ![13](https://user-images.githubusercontent.com/43060004/137789359-5e208309-9792-487b-956d-f6e4a0ff759d.png)
+      
       ![12](https://user-images.githubusercontent.com/43060004/137789356-a9ee85b1-878d-4541-a081-caa568379d39.png)
