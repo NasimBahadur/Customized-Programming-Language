@@ -1,5 +1,5 @@
 # Customized-Programming-Language
-Generating a parser for a customized (imaginary) programming language, I have made a grammar for that customized programming language and checked that with right and wrong input.
+Generating a parser for a customized (imaginary) programming language, I have made a grammar for that customized programming language and checked that with right and wrong input code.
 
 # Grammar overview
 Terminal and non-terminal symbols are the lexical parts used in deciding the creation rules setting up a customary programming language. Terminal symbols are simple symbols described by an ordinary programming language. Grammar is not just used to portray the formulation of a programming language, it is furthermore used to compiler forming.
