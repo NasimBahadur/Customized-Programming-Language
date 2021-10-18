@@ -10,15 +10,15 @@ Terminal and non-terminal symbols are the lexical parts used in deciding the cre
 
 2. The Operators are:
 
-▪ binary operator: =, +, -, *, /, +=, -=, *=, /=, %=
+- binary operator: =, +, -, *, /, +=, -=, *=, /=, %=
 
-▪ logical operator: &&,||,!, AND, OR, NOT
+- logical operator: &&,||,!, AND, OR, NOT
 
-▪ relational operator: ==, !=, <, >, <=, >=
+- relational operator: ==, !=, <, >, <=, >=
 
-▪ increment operator: ++
+- increment operator: ++
 
-▪ decrement operator: --
+- decrement operator: --
 
 3. Language begins with one or more header files with keyword **include**. There are at least one or more header files can be exist. 
 
@@ -65,5 +65,5 @@ Terminal and non-terminal symbols are the lexical parts used in deciding the cre
 
 13. User can run two types of loop, **for** and **while** with **break** and **continue** statement.
 
-![12](https://user-images.githubusercontent.com/43060004/137789356-a9ee85b1-878d-4541-a081-caa568379d39.png)
 ![13](https://user-images.githubusercontent.com/43060004/137789359-5e208309-9792-487b-956d-f6e4a0ff759d.png)
+![12](https://user-images.githubusercontent.com/43060004/137789356-a9ee85b1-878d-4541-a081-caa568379d39.png)
